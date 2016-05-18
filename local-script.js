@@ -1,6 +1,10 @@
 var output = document.getElementById('output');
 //output.innerHTML="update HTML";
+<<<<<<< HEAD
 //testing git commit checkout
+=======
+
+>>>>>>> 8d520680588f9a8872f088e335365e42ce1f9866
 //AJAX call
 var ajaxhttp = new XMLHttpRequest();
 console.log(ajaxhttp);
